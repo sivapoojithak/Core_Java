@@ -1,4 +1,4 @@
-package Final;
+package finalpackage;
 
 public final class FinalExample {
 

@@ -1,4 +1,4 @@
-package Final;
+package finalpackage;
 
 public class Main {
     public static void main(String[] args) {
