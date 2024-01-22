@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 class Dog extends Animal {
     @Override
     public void makeSound() {

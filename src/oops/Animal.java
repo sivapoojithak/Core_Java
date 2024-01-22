@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 
 public class Animal {
     public void makeSound() {

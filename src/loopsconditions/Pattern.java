@@ -7,10 +7,10 @@ public class Pattern {
 
         for(i=4;i>=0;i--) {
             for(j=0;j<n;j++){
-                if(j>=i) {
-                    System.out.print("-");
-                }else {
+                if(j<i) {
                     System.out.print("+");
+                }else {
+                    System.out.print("-");
                 }
             }
             System.out.println();

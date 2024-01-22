@@ -1,4 +1,4 @@
-package Constructor;
+package constructor;
 
 public class ChildClass extends ParentClass {
     int childInstanceVariable;

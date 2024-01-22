@@ -1,4 +1,4 @@
-package OOPS;
+package oops;
 public class Product {
     private double price;
 
